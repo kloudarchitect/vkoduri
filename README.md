@@ -1,19 +1,20 @@
-# Hi, I'm Venkata Durga Kiran "VK" Oduri 👋
+# Venkata Durga Kiran "VK" Oduri
 
-I’m a cloud and platform engineering professional focused on building reliable, scalable infrastructure and delivering practical automation.
+Cloud and platform engineering professional focused on building reliable, scalable systems and enabling teams through automation, observability, and strong operational practices.
 
 ## What I do
 - Cloud architecture and platform engineering
 - Infrastructure as Code and automation
 - Reliability, observability, and operational excellence
-- DevOps practices and delivery enablement
+- DevOps enablement and delivery improvement
 
 ## Current focus
 - Designing maintainable cloud platforms
 - Improving deployment consistency and speed
 - Strengthening monitoring, resilience, and security
+- Supporting teams with practical engineering systems
 
-## Skills
+## Core strengths
 - Cloud platforms
 - Infrastructure as Code
 - CI/CD
@@ -21,7 +22,7 @@ I’m a cloud and platform engineering professional focused on building reliable
 - Scripting and automation
 - Observability and incident readiness
 
-## Let’s connect
+## Connect with me
 - GitHub: https://github.com/kloudarchitect
 - LinkedIn: add your LinkedIn profile here
 - Portfolio: add your portfolio link here
