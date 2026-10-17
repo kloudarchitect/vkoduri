@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Reliability-Observability-2ea043?style=for-the-badge" alt="Reliability and Observability" />
 </p>
 
-# Venkata Durga Kiran "VK" Oduri
+# Venkat Koduri
 
 Cloud and platform engineering professional focused on building reliable, scalable systems and enabling teams through automation, observability, and strong operational practices.
 
